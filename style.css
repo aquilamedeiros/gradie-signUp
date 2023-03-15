@@ -145,6 +145,9 @@ button{
     #left{
         border-radius: 0px;
     }
+    #right{
+        border-radius: 0px;
+    }
     img{
         height: 100%;
         width: 100%;
